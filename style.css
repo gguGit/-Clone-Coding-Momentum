@@ -1,4 +1,14 @@
+.hidden {
+    display: none;
+}
 body
 {
     background-color: beige;
+}
+list{
+    list-style: none;
+}
+ul {
+    height: 30%;
+    overflow: auto;
 }
